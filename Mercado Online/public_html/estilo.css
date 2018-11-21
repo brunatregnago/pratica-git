@@ -1,0 +1,42 @@
+.cabecalho{
+    background-color: white;
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+}
+.form-control{
+    border-radius: 10px;
+}
+nav{
+    background-color: #008000;
+}
+ul li{
+    text-decoration: none;
+    position: relative;
+    margin: auto 10px;
+    text-align: center;
+}
+.promocao{
+    border: 1px solid darkgray;
+    height: 500px;
+}
+.promocao h1{
+    font-family: initial;
+    font-size: 21px;
+    color: #008000; 
+}
+.promocao img:nth-child(1){
+    width: 2%;
+    height: 2%;
+    align-items: center;
+}
+
+
+.produto{
+     
+}
+.produto img{
+    margin: 10px;
+    width: 70%;
+    height: 60%;
+}
